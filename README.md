@@ -32,7 +32,7 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/KingZord263/Subzero-md(v7)/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=black&labelColor=white&color=white'/></a>
+<a href='https://github.com/KingZord263/Subzero-md_v7/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=black&labelColor=white&color=white'/></a>
     <br>
     ## ⚙️`Session id links`    
 
