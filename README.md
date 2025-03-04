@@ -1,10 +1,16 @@
-# Subzero-md (version 7)
-![KingZord263](https://files.catbox.moe/yijtd8.jpg)
+# Subzero-md (Version 7)
+
+![KingZord263](https://files.catbox.moe/0mr9oi.PNG)
+
+
 ## ⭐ `Star This Repo`
 
 If you find Subzero-md helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
+
+
+
 
 
 ## 🚀 `Bot Features`
@@ -19,6 +25,9 @@ Thanks to all contributors! 🚀
 | Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
+
+
+
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
