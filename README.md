@@ -104,5 +104,10 @@ Thanks to all contributors! 🚀
 
 
 
-## `NEW DEPLOYMENT`
-NOW Deploy👇
+ <br> 
+<p align="center">
+<a href="https://wa.me/263718036108"><img src="https://img.shields.io/badge/Contact ZORD TEAMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+<a href="https://www.whatsapp.com/channel/APPLY HERE"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+<a href="https://t.me/KingZord263"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=black" /><br>
+<p align="center">
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
