@@ -19,7 +19,7 @@ global.website = process.env.GURL || "https://github.com/KingZord263/Subzero-v7"
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ec33ecf51f928d0a89a1b.jpg";
 global.devs = "https://github.com/KingZord263/Subzero-v7";
 global.sudo = process.env.SUDO || "";
-global.owner = process.env.OWNER_NUMBER || "263718036108";
+global.owner = process.env.OWNER_NUMBER || "4915563151347";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -51,8 +51,8 @@ module.exports = {
   caption: process.env.CAPTION || "KingZord",
   author: process.env.PACK_AUTHER || "Zord TEAMS-V2",
   packname: process.env.PACK_NAME || "KingZord",
-  botname: process.env.BOT_NAME || "SUBZER0 V7",
-  ownername: process.env.OWNER_NAME || "KingZord",
+  botname: process.env.BOT_NAME || "𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻",
+  ownername: process.env.OWNER_NAME || "MARTIN",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
